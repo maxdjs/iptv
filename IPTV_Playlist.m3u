@@ -1,12 +1,36 @@
 #EXTM3U
-#EXTINF:-1,ARENA SPORT 1 HR
-http://sutverduz.com:8080/live/clinecenter.com1/2711/3076.ts
-#EXTINF:-1,ARENA SPORT 2 HR
-http://sutverduz.com:8080/live/clinecenter.com1/2711/3077.ts
-#EXTINF:-1,ARENA SPORT 3 HR
-http://sutverduz.com:8080/live/clinecenter.com1/2711/3078.ts
-#EXTINF:-1,ARENA SPORT 4 HR
-http://sutverduz.com:8080/live/clinecenter.com1/2711/3079.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 1 HD Cro
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9533.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 2 HD Cro
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9534.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 3 HD Cro
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9535.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 4 HD Cro
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9536.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 5 HD Cro
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9537.ts
+#EXTINF:-1,|EX-YU|: Sport Klub 1 HD Cro
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9538.ts
+#EXTINF:-1,|EX-YU|: Sport Klub 2 HD Cro
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9539.ts
+#EXTINF:-1,|EX-YU|: Sport Klub 3 HD Cro
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9540.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 1 Srb
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9541.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 2 Srb
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9542.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 3 Srb
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9543.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 4 Srb
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9544.ts
+#EXTINF:-1,|EX-YU|: Arena Sport 5 Srb
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9545.ts
+#EXTINF:-1,|EX-YU|: Sport Klub HD 1 Srb
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9546.ts
+#EXTINF:-1,|EX-YU|: Sport Klub HD 2 Srb
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9547.ts
+#EXTINF:-1,|EX-YU|: Sport Klub HD 3 Srb
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/9548.ts
 
 
 #EXTINF:0,Digi Sport 1
