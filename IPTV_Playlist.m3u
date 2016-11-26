@@ -1,20 +1,12 @@
 #EXTM3U
 #EXTINF:0,Digi Sport 1
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/55.m3u8
-#EXTINF:0,*Digi Sport 1
-http://dgf.icx.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Digi Sport 2
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/56.m3u8
-#EXTINF:0,*Digi Sport 2
-http://dgf.icx.ro/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Digi Sport 3
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/57.m3u8
-#EXTINF:0,*Digi Sport 3
-http://dgf.icx.ro/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Digi Sport 4
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/58.m3u8
-#EXTINF:0,*Digi Sport 4
-http://dgf.icx.ro/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Dolce Sport 1
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//143.m3u8
 #EXTINF:0,Dolce Sport 2
@@ -23,20 +15,12 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//158.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//167.m3u8
 #EXTINF:0,Dolce Sport 4
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//171.m3u8
-#EXTINF:0,Sport.RO
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/62.m3u8
 #EXTINF:0,Sport.RO HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//195.m3u8
 #EXTINF:0,Eurosport 1
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/60.m3u8
-#EXTINF:0,*Eurosport 1
-http://dgf.icx.ro/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Eurosport 1 HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//188.m3u8
-#EXTINF:0,Eurosport 2
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/61.m3u8
-#EXTINF:0,*Eurosport 2
-http://dgf.icx.ro/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Eurosport 2 HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//192.m3u8
 #EXTINF:0,Extreme Sports
@@ -47,36 +31,16 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//226.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//117.m3u8
 
 
-#EXTINF:0,Pro Tv
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/3.m3u8
 #EXTINF:0,Pro Tv HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//191.m3u8
-#EXTINF:0,Pro TV International
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/50.m3u8
-#EXTINF:0,Pro TV Chisinau
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//207.m3u8
 #EXTINF:0,Antena 1
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//4.m3u8
-#EXTINF:0,Antena 1 [16:9]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//185.m3u8
-#EXTINF:0,Antena 1 [16:9]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/54.m3u8
 #EXTINF:0,TVR 1
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/1.m3u8
-#EXTINF:0,*TVR 1
-http://dgf.icx.ro/digiedge2/tvr1ehq/index.m3u8?is=24&src=digi-online.ro&t=0000000000000000000000000000000
-#EXTINF:0,TVR 2
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/2.m3u8
-#EXTINF:0,*TVR 2
-http://dgf.icx.ro/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,TVR 3
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//106.m3u8
 #EXTINF:0,TVR HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//190.m3u8
 #EXTINF:0,Prima TV
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/6.m3u8
-#EXTINF:0,Kanal D
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/8.m3u8
 #EXTINF:0,Kanal D HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//194.m3u8
 #EXTINF:0,National TV
@@ -87,8 +51,6 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/48.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/49.m3u8
 
 
-#EXTINF:0,HBO
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/13.m3u8
 #EXTINF:0,HBO HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//193.m3u8
 #EXTINF:0,HBO 2
@@ -99,8 +61,6 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/15.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/20.m3u8
 #EXTINF:0,Cinemax 2
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/21.m3u8
-#EXTINF:0,Digi Film [fara sub]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//168.m3u8
 #EXTINF:0,Sundance TV HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//204.m3u8
 #EXTINF:0,AMC
@@ -109,12 +69,6 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/16.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/29.m3u8
 #EXTINF:0,TNT
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/32.m3u8
-#EXTINF:0,AXN
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/17.m3u8
-#EXTINF:0,AXN White
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/18.m3u8
-#EXTINF:0,AXN Black
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/19.m3u8
 #EXTINF:0,Film Box
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/74.m3u8
 #EXTINF:0,Film Box Etra HD
@@ -123,30 +77,12 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//202.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/22.m3u8
 #EXTINF:0,Film Box Family
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/23.m3u8
-#EXTINF:0,Film Cafe
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/30.m3u8
-#EXTINF:0,Pro Cinema
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/31.m3u8
 #EXTINF:0,TV 1000
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/24.m3u8
-#EXTINF:0,*TV 1000
-http://dgf.icx.ro/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Bollywood Film
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/25.m3u8
-#EXTINF:0,*Bollywood Film
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,Bollywood Clasic
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/26.m3u8
 
 
-#EXTINF:0,Acasa TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/9.m3u8
 #EXTINF:0,Acasa HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//189.m3u8
-#EXTINF:0,Acasa Gold
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/10.m3u8
-#EXTINF:0,Diva Romania
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/28.m3u8
 #EXTINF:0,CBS Reality
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/71.m3u8
 #EXTINF:0,Happy Channel
@@ -157,76 +93,34 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/5.m3u8
 
 #EXTINF:0,MTV
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/93.m3u8
-#EXTINF:0,UTV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/94.m3u8
-#EXTINF:0,1 Music Channel
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//250.m3u8
-#EXTINF:0,Music Channel
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//90.m3u8
-#EXTINF:0,*Music Channel
-http://dgf.icx.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Kiss TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/92.m3u8
-#EXTINF:0,*Kiss TV
-http://dgf.icx.ro/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,ZU TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/97.m3u8
 #EXTINF:0,HIT Music
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/91.m3u8
-#EXTINF:0,*HIT Music
-http://dgf.icx.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,VH 1
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/95.m3u8
 #EXTINF:0,VH1 Classic
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/96.m3u8
 #EXTINF:0,*Mooz RO
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8
 #EXTINF:0,*Mooz HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8
 #EXTINF:0,*Mooz Dance HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8
 #EXTINF:0,*Mooz Hits
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,*Mezzo HD
-http://80.86.107.224:49999/udp/224.5.0.84:1234
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8
 
 
 #EXTINF:0,TV Paprika
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/76.m3u8
-#EXTINF:0,*TV Paprika
-http://dgf.icx.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Fishing & Hunting
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//253.m3u8
-#EXTINF:0,BBC Earth
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//186.m3u8
-#EXTINF:0,*Digi Life
-http://dgf.icx.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,*Digi World
-http://dgf.icx.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,*Digi Animal World
-http://dgf.icx.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,History Channel
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/69.m3u8
-#EXTINF:0,*History Channel
-http://dgf.icx.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,History HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//203.m3u8
-#EXTINF:0,National Geographic
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/72.m3u8
-#EXTINF:0,*National Geographic
-http://dgf.icx.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,National Geographic HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//198.m3u8
-#EXTINF:0,Nat Geo Wild
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/73.m3u8
-#EXTINF:0,*Nat Geo Wild
-http://dgf.icx.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Nat Geo Wild HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//197.m3u8
 #EXTINF:0,Discovery Channel
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/64.m3u8
-#EXTINF:0,Animal Planet
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/63.m3u8
 #EXTINF:0,Animal Planet HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//200.m3u8
 #EXTINF:0,Discovery Science
@@ -239,48 +133,12 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/67.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/77.m3u8
 #EXTINF:0,Show Case HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//199.m3u8
-#EXTINF:0,Travel Channel
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/78.m3u8
-#EXTINF:0,*Travel Channel
-http://dgf.icx.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Travel Channel HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//201.m3u8
-#EXTINF:0,Viasat Explorer
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/79.m3u8
-#EXTINF:0,*Viasat Explore
-http://dgf.icx.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Viasat History
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/80.m3u8
-#EXTINF:0,*Viasat History
-http://dgf.icx.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Viasat Nature
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/81.m3u8
-#EXTINF:0,*Viasat Nature
-http://dgf.icx.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,Fine Living
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/68.m3u8
-#EXTINF:0,Discovery Turbo Xtra
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/65.m3u8
 
 
-#EXTINF:0,Digi 24
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/35.m3u8
-#EXTINF:0,Antena 3
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//33.m3u8
-#EXTINF:0,Realitatea TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/36.m3u8
-#EXTINF:0,*Realitatea Tv
-http://dgf.icx.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,B1 TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/47.m3u8
-#EXTINF:0,*B1 Tv
-http://dgf.icx.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Romania TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/34.m3u8
-#EXTINF:0,*Romania TV
-http://dgf.icx.ro/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,National 24 Plus
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/12.m3u8
 #EXTINF:0,CNN
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//113.m3u8
 #EXTINF:0,Euronews
@@ -289,82 +147,18 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//114.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//118.m3u8
 #EXTINF:0,Russia Today
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//217.m3u8
-#EXTINF:0,*Russia Today
-http://gourl.su/10e?russia.today
 #EXTINF:0,DW
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//110.m3u8
 #EXTINF:0,Bloomberg TV
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//115.m3u8
 
 
-#EXTINF:0,Cartoon Network
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/83.m3u8
-#EXTINF:0,Disney Channel
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/84.m3u8
-#EXTINF:0,*Disney Channel
-http://dgf.icx.ro/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,*Disney Junior
-http://dgf.icx.ro/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Nickelodeon TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/87.m3u8
-#EXTINF:0,*Nickelodeon TV
-http://dgf.icx.ro/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,NICK Junior
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/89.m3u8
-#EXTINF:0,Boomerang
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/82.m3u8
-#EXTINF:0,Minimax
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/86.m3u8
-#EXTINF:0,*Minimax
-http://dgf.icx.ro/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,Megamax
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/53.m3u8
-#EXTINF:0,*Megamax
-http://dgf.icx.ro/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0,DUCK TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/88.m3u8
-
-
-#EXTINF:0,TVR International
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/51.m3u8
 #EXTINF:0,TVH
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//105.m3u8
-#EXTINF:0,City TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//126.m3u8
-#EXTINF:0,Neptun TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//125.m3u8
-#EXTINF:0,Nasul TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//104.m3u8
-#EXTINF:0,*6TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,*Travel Mix
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
 
 
-#EXTINF:0,Moldova 1
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//210.m3u8
-#EXTINF:0,M2
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//211.m3u8
 #EXTINF:0,Puplika HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//212.m3u8
-
-
-#EXTINF:0,Etno TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//101.m3u8
-#EXTINF:0,Favorit TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//102.m3u8
-#EXTINF:0,Taraf TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//103.m3u8
-
-
-#EXTINF:0,Trinitas TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//121.m3u8
-#EXTINF:0,Alfa Omega TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//124.m3u8
-#EXTINF:0,Speranta TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//122.m3u8
-#EXTINF:0,Credo TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//123.m3u8
 
 
 #EXTINF:0,RTL
@@ -383,119 +177,9 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//112.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//119.m3u8
 
 
-#EXTINF:0,TVE
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//120.m3u8
-
-
-#EXTINF:0,Dubai 1
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//116.m3u8
-
-
-#EXTINF:0,DUNA TV [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//222.m3u8
-#EXTINF:0,DUNA WORLD [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//249.m3u8
-#EXTINF:0,M1 [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//223.m3u8
-#EXTINF:0,M2 [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//224.m3u8
 #EXTINF:0,M4 Sport [HU]
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//247.m3u8
-#EXTINF:0,M5 [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//248.m3u8
-#EXTINF:0,atv [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//225.m3u8
-#EXTINF:0,Extreme Sports [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//241.m3u8
-#EXTINF:0,CINEMAX [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//246.m3u8
-#EXTINF:0,AXN White [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//228.m3u8
-#EXTINF:0,AXN Black [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//229.m3u8
-#EXTINF:0,Film Box [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//230.m3u8
-#EXTINF:0,Film Box Family [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//231.m3u8
-#EXTINF:0,Film Box Plus [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//232.m3u8
-#EXTINF:0,Animal Planet [HU-RO]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//233.m3u8
-#EXTINF:0,Discovery Science [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//235.m3u8
-#EXTINF:0,Viasat Nature [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//239.m3u8
-#EXTINF:0,Viasat History [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//240.m3u8
-#EXTINF:0,Travel Channel [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//238.m3u8
-#EXTINF:0,The Learning Channel [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//237.m3u8
-#EXTINF:0,Fine Living [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//236.m3u8
-#EXTINF:0,1 Music Channel [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//250.m3u8
-#EXTINF:0,HIT Music [HU] ???
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//251.m3u8
-#EXTINF:0,Cartoon Network [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//221.m3u8
-#EXTINF:0,Nickelodeon TV [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//243.m3u8
-#EXTINF:0,NICK Junior [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//244.m3u8
-#EXTINF:0,Boomerang [HU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//242.m3u8
 
 
-#EXTINF:0,Fashion TV
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//111.m3u8
 #EXTINF:0,Fashion TV HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//196.m3u8
-#EXTINF:0,Jasmin HD [ADULT]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//206.m3u8
-
-
-#EXTINF:0,Hustler HD [XXX]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//205.m3u8
-#EXTINF:0,Brazzers [XXX]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//180.m3u8
-#EXTINF:0,FAP TV [XXX]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//172.m3u8
-#EXTINF:0,FAP TV 2 [XXX]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//173.m3u8
-#EXTINF:0,FAP TV 3 [XXX]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//174.m3u8
-#EXTINF:0,FAP TV 4 [XXX]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//179.m3u8
-#EXTINF:0,FAP TV anal [XXX]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//175.m3u8
-#EXTINF:0,FAP TV older [XXX]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//177.m3u8
-#EXTINF:0,LegalPorno.com [XXX]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//181.m3u8
-
-
-
-
-#EXTINF:0,Service 1
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//182.m3u8
-#EXTINF:0,Service 2
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//208.m3u8
-#EXTINF:0,Service 3
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//209.m3u8
-#EXTINF:0,Service 4
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//213.m3u8
-#EXTINF:0,Service 5
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//214.m3u8
-#EXTINF:0,Service 6
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//215.m3u8
-#EXTINF:0,Service 7
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//216.m3u8
-#EXTINF:0,Service 8 [RU]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//218.m3u8
-#EXTINF:0,Service 9
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//219.m3u8
-#EXTINF:0,Service 10
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//220.m3u8
-#EXTINF:0,Service 11
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0//234.m3u8
