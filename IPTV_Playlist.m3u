@@ -1,174 +1,232 @@
 #EXTM3U
 
-#EXTINF:-1,(RS) RTS 1
-http://5.255.90.94:1339/live/Zaza/Zaza/613.ts
-#EXTINF:-1,(RS) RTS 2
-http://5.255.90.94:1339/live/Zaza/Zaza/612.ts
-#EXTINF:-1,(RS) RTS 3
-http://5.255.90.94:1339/live/Zaza/Zaza/6153.ts
-#EXTINF:-1,(RS) RTS Satelite
-http://5.255.90.94:1339/live/Zaza/Zaza/1521.ts
-#EXTINF:-1,(RS) Arena Sport 1
-http://5.255.90.94:1339/live/Zaza/Zaza/534.ts
-#EXTINF:-1,(RS) Arena Sport 2
-http://5.255.90.94:1339/live/Zaza/Zaza/535.ts
-#EXTINF:-1,(RS) Arena Sport 3
-http://5.255.90.94:1339/live/Zaza/Zaza/536.ts
-#EXTINF:-1,(RS) Arena Sport 4
-http://5.255.90.94:1339/live/Zaza/Zaza/537.ts
-#EXTINF:-1,(RS) Arena Sport 5
-http://5.255.90.94:1339/live/Zaza/Zaza/401.ts
-#EXTINF:-1,(RS) Eurosport 1
-http://5.255.90.94:1339/live/Zaza/Zaza/788.ts
-#EXTINF:-1,(RS) Eurosport 2
-http://5.255.90.94:1339/live/Zaza/Zaza/1020.ts
-#EXTINF:-1,(RS) Sport Klub 1 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/237.ts
-#EXTINF:-1,(RS) Sport Klub 2 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/238.ts
-#EXTINF:-1,(RS) Sport Klub 3 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/1982.ts
-#EXTINF:-1,(HR) Arena Sport 1 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/404.ts
-#EXTINF:-1,(HR) Arena Sport 2 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/218.ts
-#EXTINF:-1,(HR) Arena Sport 3 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/405.ts
-#EXTINF:-1,(HR) Arena Sport 4 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/406.ts
-#EXTINF:-1,(HR) Arena Sport 5 HD
-http://5.255.90.94:1339/live/Zaza/Zaza/787.ts
-#EXTINF:-1,(HR) Arena Sport 6 test
-http://5.255.90.94:1339/live/Zaza/Zaza/14685.ts
-#EXTINF:-1,(HR) Sport Klub HD
-http://5.255.90.94:1339/live/Zaza/Zaza/14686.ts
-#EXTINF:-1,(HR) Sport Klub 1
-http://5.255.90.94:1339/live/Zaza/Zaza/1983.ts
-#EXTINF:-1,(HR) Sport Klub 2
-http://5.255.90.94:1339/live/Zaza/Zaza/1984.ts
-#EXTINF:-1,(HR) Sport Klub 3
-http://5.255.90.94:1339/live/Zaza/Zaza/239.ts
-#EXTINF:-1,(HR) Sport Klub 4
-http://5.255.90.94:1339/live/Zaza/Zaza/14687.ts
-#EXTINF:-1,(HR) Sport Klub 5
-http://5.255.90.94:1339/live/Zaza/Zaza/14688.ts
-#EXTINF:-1,(HR) Sport Klub 6
-http://5.255.90.94:1339/live/Zaza/Zaza/14689.ts
-#EXTINF:-1,(RS) SOS Kanal
-http://5.255.90.94:1339/live/Zaza/Zaza/1789.ts
-#EXTINF:-1,(HR) HBO Adria HD
-http://5.255.90.94:1339/live/Zaza/Zaza/720.ts
-#EXTINF:-1,(HR) M1 Film test
-http://5.255.90.94:1339/live/Zaza/Zaza/14678.ts
-#EXTINF:-1,(BH) A TV
-http://5.255.90.94:1339/live/Zaza/Zaza/756.ts
-#EXTINF:-1,(RS) B92
-http://5.255.90.94:1339/live/Zaza/Zaza/426.ts
-#EXTINF:-1,(RS) Nova TV
-http://5.255.90.94:1339/live/Zaza/Zaza/747.ts
-#EXTINF:-1,(RS) Prva 1
-http://5.255.90.94:1339/live/Zaza/Zaza/610.ts
-#EXTINF:-1,(RS) Prva Plus
-http://5.255.90.94:1339/live/Zaza/Zaza/609.ts
-#EXTINF:-1,(RS) Grand TV
-http://5.255.90.94:1339/live/Zaza/Zaza/655.ts
-#EXTINF:-1,(RS) Happy TV
-http://5.255.90.94:1339/live/Zaza/Zaza/750.ts
-#EXTINF:-1,(RS) Lov & Ribolov
-http://5.255.90.94:1339/live/Zaza/Zaza/1409.ts
-#EXTINF:-1,(RS) RTRS
-http://5.255.90.94:1339/live/Zaza/Zaza/614.ts
-#EXTINF:-1,(RS) DM SAT
-http://5.255.90.94:1339/live/Zaza/Zaza/758.ts
-#EXTINF:-1,(RS) Duga TV
-http://5.255.90.94:1339/live/Zaza/Zaza/6306.ts
-#EXTINF:-1,(RS) E!
-http://5.255.90.94:1339/live/Zaza/Zaza/771.ts
-#EXTINF:-1,(RS) RTV Mlava
-http://5.255.90.94:1339/live/Zaza/Zaza/15909.ts
-#EXTINF:-1,(RS) Kopernikus 1
-http://5.255.90.94:1339/live/Zaza/Zaza/340.ts
-#EXTINF:-1,(RS) Kopernikus 2
-http://5.255.90.94:1339/live/Zaza/Zaza/341.ts
-#EXTINF:-1,(HR) MTV Adria
-http://5.255.90.94:1339/live/Zaza/Zaza/757.ts
-#EXTINF:-1,(RS) Balkanika
-http://5.255.90.94:1339/live/Zaza/Zaza/7693.ts
-#EXTINF:-1,(RS) Cinemax 1
-http://5.255.90.94:1339/live/Zaza/Zaza/778.ts
-#EXTINF:-1,(RS) Cinemax 2
-http://5.255.90.94:1339/live/Zaza/Zaza/779.ts
-#EXTINF:-1,(RS) Cinestar TV Premiere 1
-http://5.255.90.94:1339/live/Zaza/Zaza/777.ts
-#EXTINF:-1,(RS) Cinestar TV Premiere 2
-http://5.255.90.94:1339/live/Zaza/Zaza/781.ts
-#EXTINF:-1,(RS) Cinestar TV
-http://5.255.90.94:1339/live/Zaza/Zaza/632.ts
-#EXTINF:-1,(RS) FilmBox Plus test
-http://5.255.90.94:1339/live/Zaza/Zaza/14682.ts
-#EXTINF:-1,(RS) FilmBox Extra test
-http://5.255.90.94:1339/live/Zaza/Zaza/14683.ts
-#EXTINF:-1,(RS) FilmBox Arthouse test
-http://5.255.90.94:1339/live/Zaza/Zaza/14684.ts
-#EXTINF:-1,(RS) Pink 1
-http://5.255.90.94:1339/live/Zaza/Zaza/738.ts
-#EXTINF:-1,(RS) Pink 2
-http://5.255.90.94:1339/live/Zaza/Zaza/650.ts
-#EXTINF:-1,(RS) Pink 3
-http://5.255.90.94:1339/live/Zaza/Zaza/649.ts
-#EXTINF:-1,(RS) Pink BH
-http://5.255.90.94:1339/live/Zaza/Zaza/646.ts
-#EXTINF:-1,(RS) Pink Extra
-http://5.255.90.94:1339/live/Zaza/Zaza/740.ts
-#EXTINF:-1,(RS) Pink Kuvar
-http://5.255.90.94:1339/live/Zaza/Zaza/631.ts
-#EXTINF:-1,(RS) Pink SuperKids
-http://5.255.90.94:1339/live/Zaza/Zaza/741.ts
-#EXTINF:-1,(RS) Pink Reality
-http://5.255.90.94:1339/live/Zaza/Zaza/627.ts
-#EXTINF:-1,(RS) Pink Zabava
-http://5.255.90.94:1339/live/Zaza/Zaza/620.ts
-#EXTINF:-1,(RS) Pink Folk 1
-http://5.255.90.94:1339/live/Zaza/Zaza/642.ts
-#EXTINF:-1,(RS) Pink Folk 2
-http://5.255.90.94:1339/live/Zaza/Zaza/641.ts
-#EXTINF:-1,(RS) Pink Hits
-http://5.255.90.94:1339/live/Zaza/Zaza/14675.ts
-#EXTINF:-1,(RS) Pink Hits 2
-http://5.255.90.94:1339/live/Zaza/Zaza/6548.ts
-#EXTINF:-1,(RS) Pink Music
-http://5.255.90.94:1339/live/Zaza/Zaza/633.ts
-#EXTINF:-1,(RS) Pink Pedia
-http://5.255.90.94:1339/live/Zaza/Zaza/629.ts
-#EXTINF:-1,(RS) Pink World
-http://5.255.90.94:1339/live/Zaza/Zaza/621.ts
-#EXTINF:-1,(RS) Pink Action
-http://5.255.90.94:1339/live/Zaza/Zaza/743.ts
-#EXTINF:-1,(RS) Pink Comedy
-http://5.255.90.94:1339/live/Zaza/Zaza/215.ts
-#EXTINF:-1,(RS) Pink Crime & Mystery
-http://5.255.90.94:1339/live/Zaza/Zaza/647.ts
-#EXTINF:-1,(RS) Pink Film
-http://5.255.90.94:1339/live/Zaza/Zaza/643.ts
-#EXTINF:-1,(RS) Pink Horror
-http://5.255.90.94:1339/live/Zaza/Zaza/640.ts
-#EXTINF:-1,(RS) Pink M
-http://5.255.90.94:1339/live/Zaza/Zaza/637.ts
-#EXTINF:-1,(RS) Pink Plus
-http://5.255.90.94:1339/live/Zaza/Zaza/739.ts
-#EXTINF:-1,(RS) Pink Premium
-http://5.255.90.94:1339/live/Zaza/Zaza/216.ts
-#EXTINF:-1,(RS) Pink Romance
-http://5.255.90.94:1339/live/Zaza/Zaza/636.ts
-#EXTINF:-1,(RS) Pink Serije
-http://5.255.90.94:1339/live/Zaza/Zaza/9796.ts
-#EXTINF:-1,(RS) Pink Sci-Fi & Fantasy
-http://5.255.90.94:1339/live/Zaza/Zaza/742.ts
-#EXTINF:-1,(RS) Pink Soap
-http://5.255.90.94:1339/live/Zaza/Zaza/625.ts
-#EXTINF:-1,(RS) Pink Thriller
-http://5.255.90.94:1339/live/Zaza/Zaza/648.ts
-#EXTINF:-1,(RS) Pink Western
-http://5.255.90.94:1339/live/Zaza/Zaza/622.ts
-#EXTINF:-1,(RS) Pink World Cinema
-http://5.255.90.94:1339/live/Zaza/Zaza/9795.ts
+#EXTINF:-1,HRT 1
+http://titaniptv.com:9140/live/Blagdani/0011223344/41.ts
+#EXTINF:-1,HRT 2
+http://titaniptv.com:9140/live/Blagdani/0011223344/42.ts
+#EXTINF:-1,HRT 3
+http://titaniptv.com:9140/live/Blagdani/0011223344/43.ts
+#EXTINF:-1,HRT 4
+http://titaniptv.com:9140/live/Blagdani/0011223344/107.ts
+#EXTINF:-1,RTL
+http://titaniptv.com:9140/live/Blagdani/0011223344/44.ts
+#EXTINF:-1,RTL 2
+http://titaniptv.com:9140/live/Blagdani/0011223344/45.ts
+#EXTINF:-1,RTL Living
+http://titaniptv.com:9140/live/Blagdani/0011223344/46.ts
+#EXTINF:-1,RTL Crime
+http://titaniptv.com:9140/live/Blagdani/0011223344/79.ts
+#EXTINF:-1,Nova TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/123.ts
+#EXTINF:-1,Doma TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/124.ts
+#EXTINF:-1,TV Student
+http://titaniptv.com:9140/live/Blagdani/0011223344/12.ts
+#EXTINF:-1,Klasik TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/48.ts
+#EXTINF:-1,NAT Geo
+http://titaniptv.com:9140/live/Blagdani/0011223344/58.ts
+#EXTINF:-1,NAT Geo Wild
+http://titaniptv.com:9140/live/Blagdani/0011223344/59.ts
+#EXTINF:-1,CBS Reality
+http://titaniptv.com:9140/live/Blagdani/0011223344/65.ts
+#EXTINF:-1,24Kitchen
+http://titaniptv.com:9140/live/Blagdani/0011223344/68.ts
+#EXTINF:-1,Viasat History
+http://titaniptv.com:9140/live/Blagdani/0011223344/66.ts
+#EXTINF:-1,Viasat Explorer
+http://titaniptv.com:9140/live/Blagdani/0011223344/67.ts
+#EXTINF:-1,Disney Channel
+http://titaniptv.com:9140/live/Blagdani/0011223344/73.ts
+#EXTINF:-1,RTS
+http://titaniptv.com:9140/live/Blagdani/0011223344/55.ts
+#EXTINF:-1,RTRS
+http://titaniptv.com:9140/live/Blagdani/0011223344/77.ts
+#EXTINF:-1,RTRS Plus
+http://titaniptv.com:9140/live/Blagdani/0011223344/78.ts
+#EXTINF:-1,TV 1000
+http://titaniptv.com:9140/live/Blagdani/0011223344/14.ts
+#EXTINF:-1,Travel Channel
+http://titaniptv.com:9140/live/Blagdani/0011223344/60.ts
+#EXTINF:-1,History Channel
+http://titaniptv.com:9140/live/Blagdani/0011223344/61.ts
+#EXTINF:-1,Sci-Fi Channel
+http://titaniptv.com:9140/live/Blagdani/0011223344/108.ts
+#EXTINF:-1,Discovery ID
+http://titaniptv.com:9140/live/Blagdani/0011223344/125.ts
+#EXTINF:-1,Hayat Plus
+http://titaniptv.com:9140/live/Blagdani/0011223344/62.ts
+#EXTINF:-1,FOX Life
+http://titaniptv.com:9140/live/Blagdani/0011223344/50.ts
+#EXTINF:-1,FOX
+http://titaniptv.com:9140/live/Blagdani/0011223344/82.ts
+#EXTINF:-1,FOX Crime
+http://titaniptv.com:9140/live/Blagdani/0011223344/52.ts
+#EXTINF:-1,DIVA
+http://titaniptv.com:9140/live/Blagdani/0011223344/47.ts
+#EXTINF:-1,Sportska TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/40.ts
+#EXTINF:-1,N1 HD HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/30.ts
+#EXTINF:-1,N1 HD BIH
+http://titaniptv.com:9140/live/Blagdani/0011223344/28.ts
+#EXTINF:-1,N1 HD SRB
+http://titaniptv.com:9140/live/Blagdani/0011223344/29.ts
+#EXTINF:-1,BHT 1
+http://titaniptv.com:9140/live/Blagdani/0011223344/24.ts
+#EXTINF:-1,Prva TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/76.ts
+#EXTINF:-1,Happy TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/106.ts
+#EXTINF:-1,B92
+http://titaniptv.com:9140/live/Blagdani/0011223344/21.ts
+#EXTINF:-1,KCN 1
+http://titaniptv.com:9140/live/Blagdani/0011223344/32.ts
+#EXTINF:-1,KCN 2
+http://titaniptv.com:9140/live/Blagdani/0011223344/33.ts
+#EXTINF:-1,KCN 3
+http://titaniptv.com:9140/live/Blagdani/0011223344/34.ts
+#EXTINF:-1,BN
+http://titaniptv.com:9140/live/Blagdani/0011223344/31.ts
+#EXTINF:-1,BN Music
+http://titaniptv.com:9140/live/Blagdani/0011223344/4.ts
+#EXTINF:-1,OTV Valentino
+http://titaniptv.com:9140/live/Blagdani/0011223344/81.ts
+#EXTINF:-1,RTCG Sat
+http://titaniptv.com:9140/live/Blagdani/0011223344/23.ts
+#EXTINF:-1,TV5 Bosna
+http://titaniptv.com:9140/live/Blagdani/0011223344/35.ts
+#EXTINF:-1,Al Jezeera Balkans
+http://titaniptv.com:9140/live/Blagdani/0011223344/22.ts
+#EXTINF:-1,DM Sat
+http://titaniptv.com:9140/live/Blagdani/0011223344/39.ts
+#EXTINF:-1,Jugoton
+http://titaniptv.com:9140/live/Blagdani/0011223344/6.ts
+#EXTINF:-1,CMC
+http://titaniptv.com:9140/live/Blagdani/0011223344/5.ts
+#EXTINF:-1,IDJ TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/1.ts
+#EXTINF:-1,Grand TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/13.ts
+#EXTINF:-1,Grand 2 TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/126.ts
+#EXTINF:-1,Izvorna TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/3.ts
+#EXTINF:-1,TOP Sound
+http://titaniptv.com:9140/live/Blagdani/0011223344/37.ts
+#EXTINF:-1,Duga Plus
+http://titaniptv.com:9140/live/Blagdani/0011223344/38.ts
+#EXTINF:-1,Deejay HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/36.ts
+#EXTINF:-1,Visper Radio
+http://titaniptv.com:9140/live/Blagdani/0011223344/18.ts
+#EXTINF:-1,POP Music
+http://titaniptv.com:9140/live/Blagdani/0011223344/9.ts
+#EXTINF:-1,HBO HD
+http://titaniptv.com:9140/live/Blagdani/0011223344/11.ts
+#EXTINF:-1,HBO 2
+http://titaniptv.com:9140/live/Blagdani/0011223344/85.ts
+#EXTINF:-1,HBO 3
+http://titaniptv.com:9140/live/Blagdani/0011223344/127.ts
+#EXTINF:-1,Cinestar TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/20.ts
+#EXTINF:-1,Cinestar TV Premiere 1
+http://titaniptv.com:9140/live/Blagdani/0011223344/69.ts
+#EXTINF:-1,Cinestar TV Premiere 2
+http://titaniptv.com:9140/live/Blagdani/0011223344/84.ts
+#EXTINF:-1,Cinemax 1
+http://titaniptv.com:9140/live/Blagdani/0011223344/83.ts
+#EXTINF:-1,Cinemax 2
+http://titaniptv.com:9140/live/Blagdani/0011223344/16.ts
+#EXTINF:-1,M1 Film
+http://titaniptv.com:9140/live/Blagdani/0011223344/86.ts
+#EXTINF:-1,Pink 1
+http://titaniptv.com:9140/live/Blagdani/0011223344/112.ts
+#EXTINF:-1,Pink 2
+http://titaniptv.com:9140/live/Blagdani/0011223344/113.ts
+#EXTINF:-1,Pink 3 Info
+http://titaniptv.com:9140/live/Blagdani/0011223344/114.ts
+#EXTINF:-1,Pink BH
+http://titaniptv.com:9140/live/Blagdani/0011223344/116.ts
+#EXTINF:-1,Pink Folk 1
+http://titaniptv.com:9140/live/Blagdani/0011223344/121.ts
+#EXTINF:-1,Pink Romance
+http://titaniptv.com:9140/live/Blagdani/0011223344/119.ts
+#EXTINF:-1,Pink Premium
+http://titaniptv.com:9140/live/Blagdani/0011223344/117.ts
+#EXTINF:-1,Pink Crime i Mystery
+http://titaniptv.com:9140/live/Blagdani/0011223344/120.ts
+#EXTINF:-1,Pink Plus
+http://titaniptv.com:9140/live/Blagdani/0011223344/115.ts
+#EXTINF:-1,Pink Kids
+http://titaniptv.com:9140/live/Blagdani/0011223344/111.ts
+#EXTINF:-1,Pink Comedy
+http://titaniptv.com:9140/live/Blagdani/0011223344/118.ts
+#EXTINF:-1,Pink Film
+http://titaniptv.com:9140/live/Blagdani/0011223344/25.ts
+#EXTINF:-1,Pink Thriller
+http://titaniptv.com:9140/live/Blagdani/0011223344/19.ts
+#EXTINF:-1,Pink Movies
+http://titaniptv.com:9140/live/Blagdani/0011223344/17.ts
+#EXTINF:-1,Pink Western
+http://titaniptv.com:9140/live/Blagdani/0011223344/110.ts
+#EXTINF:-1,Pink Action
+http://titaniptv.com:9140/live/Blagdani/0011223344/109.ts
+#EXTINF:-1,Parovi TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/2.ts
+#EXTINF:-1,Nasa TV
+http://titaniptv.com:9140/live/Blagdani/0011223344/8.ts
+#EXTINF:-1,Gradacac
+http://titaniptv.com:9140/live/Blagdani/0011223344/7.ts
+#EXTINF:-1,Eurosport 2
+http://titaniptv.com:9140/live/Blagdani/0011223344/15.ts
+#EXTINF:-1,Arena Sport 1 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/92.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/93.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/94.ts
+#EXTINF:-1,Arena Sport 3 HR (Web)
+http://titaniptv.com:9140/live/Blagdani/0011223344/132.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/95.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/96.ts
+#EXTINF:-1,Arena Sport 1 SRB
+http://titaniptv.com:9140/live/Blagdani/0011223344/87.ts
+#EXTINF:-1,Arena Sport 2 SRB
+http://titaniptv.com:9140/live/Blagdani/0011223344/88.ts
+#EXTINF:-1,Arena Sport 3 SRB
+http://titaniptv.com:9140/live/Blagdani/0011223344/89.ts
+#EXTINF:-1,Arena Sport 4 SRB
+http://titaniptv.com:9140/live/Blagdani/0011223344/90.ts
+#EXTINF:-1,Arena Sport 5 SRB
+http://titaniptv.com:9140/live/Blagdani/0011223344/91.ts
+#EXTINF:-1,Sport Klub 1 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/100.ts
+#EXTINF:-1,Sport Klub 2 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/101.ts
+#EXTINF:-1,Sport Klub 3 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/102.ts
+#EXTINF:-1,Sport Klub 4 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/103.ts
+#EXTINF:-1,Sport Klub 5 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/104.ts
+#EXTINF:-1,Sport Klub 6 HR
+http://titaniptv.com:9140/live/Blagdani/0011223344/105.ts
+#EXTINF:-1,Sport Klub 1 SRB
+http://titaniptv.com:9140/live/Blagdani/0011223344/97.ts
+#EXTINF:-1,Sport Klub 2 SRB
+http://titaniptv.com:9140/live/Blagdani/0011223344/98.ts
+#EXTINF:-1,Sport Klub 3 SRB
+http://titaniptv.com:9140/live/Blagdani/0011223344/99.ts
+#EXTINF:-1,Ko to tamo peva (1980)
+http://titaniptv.com:9140/movie/Blagdani/0011223344/128.MP4
+#EXTINF:-1,Varljivo leto '68 (1984)
+http://titaniptv.com:9140/movie/Blagdani/0011223344/70.MP4
+#EXTINF:-1,Sisanje (2010)
+http://titaniptv.com:9140/movie/Blagdani/0011223344/130.MP4
+#EXTINF:-1,Bicemo prvaci sveta (2015)
+http://titaniptv.com:9140/movie/Blagdani/0011223344/129.MP4
+#EXTINF:-1,Zg80 (2016)
+http://titaniptv.com:9140/movie/Blagdani/0011223344/131.MP4
