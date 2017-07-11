@@ -1,5 +1,89 @@
 #EXTM3U
 
+#EXTINF:-1, ATV
+http://185.152.65.130:8080/atv/mpegts
+#EXTINF:-1, Comedy Central
+http://185.152.65.130:8080/viva/mpegts
+#EXTINF:-1, FOX
+http://185.152.65.130:8080/fox/mpegts
+#EXTINF:-1, FOX life
+http://185.152.65.130:8080/foxlife/mpegts
+#EXTINF:-1, MTV
+http://185.152.65.130:8080/mtv/mpegts
+#EXTINF:-1, Prva Plus
+http://185.152.65.130:8080/prvaplus/mpegts
+#EXTINF:-1, RTRS
+http://185.152.65.130:8080/rtrs/mpegts
+#EXTINF:-1, RTS1
+http://185.152.65.130:8080/rts1/mpegts
+#EXTINF:-1, PINK3
+http://185.152.65.130:8080/pink3/mpegts
+#EXTINF:-1, PINK Kids
+http://185.152.65.130:8080/pinkkids/mpegts
+#EXTINF:-1, Pink Reality
+http://185.152.65.130:8080/pinkreality/mpegts
+#EXTINF:-1, SK2
+http://185.152.65.130:8080/sk2/mpegts
+#EXTINF:-1, Pink Action
+http://185.152.65.130:8080/pinkaction/mpegts
+#EXTINF:-1, Pink Comedy
+http://185.152.65.130:8080/pinkcomedy/mpegts
+#EXTINF:-1, Pink Romance
+http://185.152.65.130:8080/pinkromance/mpegts
+#EXTINF:-1, Pink Soar
+http://185.152.65.130:8080/pinksoap/mpegts
+#EXTINF:-1, Pink Thriller
+http://185.152.65.130:8080/pinkthriller/mpegts
+#EXTINF:-1, FOX Crime
+http://185.152.65.130:8080/foxcrime/mpegts
+#EXTINF:-1, HRT3
+http://185.152.65.130:8080/hrt3/mpegts
+#EXTINF:-1, HRT4
+http://185.152.65.130:8080/hrt4/mpegts
+#EXTINF:-1, MiniMax
+http://185.152.65.130:8080/minimax/mpegts
+#EXTINF:-1, CMC
+http://185.152.65.130:8080/cmc/mpegts
+#EXTINF:-1, Hayat PLUS
+http://185.152.65.130:8080/hayatplus/mpegts
+#EXTINF:-1, Hayat FOLK
+http://185.152.65.130:8080/hayatfolk/mpegts
+#EXTINF:-1, BN music
+http://185.152.65.130:8080/bnmusic/mpegts
+#EXTINF:-1, Hayat Music
+http://185.152.65.130:8080/hayatmusic/mpegts
+#EXTINF:-1, EB1 BiH
+http://185.152.65.130:8080/n1bih/mpegts
+#EXTINF:-1, TV1
+http://185.152.65.130:8080/tv1/mpegts
+#EXTINF:-1, Sitel3
+http://185.152.65.130:8080/sitel3/mpegts
+#EXTINF:-1, Telma
+http://185.152.65.130:8080/telma/mpegts
+#EXTINF:-1, RTCG
+http://185.152.65.130:8080/rtcg/mpegts
+#EXTINF:-1, SAT1
+http://185.152.65.130:8080/sat1/mpegts
+#EXTINF:-1, ZDF
+http://185.152.65.130:8080/zdf/mpegts
+#EXTINF:-1, EuroSport 1
+http://185.152.65.130:8080/eurosport1/mpegts
+#EXTINF:-1, OTV
+http://185.152.65.130:8080/otv/mpegts
+#EXTINF:-1, BN sat
+http://185.152.65.130:8080/bnsat/mpegts
+#EXTINF:-1, Pink Horor
+http://185.152.65.130:8080/pinkhoror/mpegts
+#EXTINF:-1, Kabel 1
+http://185.152.65.130:8080/kabel1/mpegts
+#EXTINF:-1, RTL 2 DE
+http://185.152.65.130:8080/rtl2de/mpegts
+#EXTINF:-1, KCN 3
+http://185.152.65.130:8080/kcn3/mpegts
+#EXTINF:-1, Pink Hits 2
+http://185.152.65.130:8080/pinkhits2/mpegts
+#EXTINF:-1, Pink Crime
+http://185.152.65.130:8080/pinkcrime/mpegts
 #EXTINF:-1, Arena 1
 http://185.152.65.130:8080/arena1/mpegts
 #EXTINF:-1, Arena 2
@@ -8,3 +92,39 @@ http://185.152.65.130:8080/arena2/mpegts
 http://185.152.65.130:8080/arena3/mpegts
 #EXTINF:-1, Arena 4
 http://185.152.65.130:8080/arena4/mpegts
+#EXTINF:-1, arena5
+http://185.152.65.130:8080/arena5/mpegts
+#EXTINF:-1, arena5
+http://185.59.220.134:8080/arena5/mpegts
+#EXTINF:-1, Pink Roll
+http://185.152.65.130:8080/pinkroll/mpegts
+#EXTINF:-1, SOS
+http://185.152.65.130:8080/sos/mpegts
+#EXTINF:-1, RTS SAT
+http://185.152.65.130:8080/rtssat/mpegts
+#EXTINF:-1, Pro7
+http://185.152.65.130:8080/pro7/mpegts
+#EXTINF:-1, RAI 2
+http://185.152.65.130:8080/rai2/mpegts
+#EXTINF:-1, MRT 1
+http://185.152.65.130:8080/mrt1/mpegts
+#EXTINF:-1, TOP Sound
+http://185.152.65.130:8080/topsound/mpegts
+#EXTINF:-1, Duga
+http://185.152.65.130:8080/duga/mpegts
+#EXTINF:-1, Palma
+http://185.152.65.130:8080/palma/mpegts
+#EXTINF:-1, B92 info
+http://185.152.65.130:8080/b92info/mpegts
+#EXTINF:-1, AlfaMK
+http://185.152.65.130:8080/alfamk/mpegts
+#EXTINF:-1, 24 Vesti
+http://185.152.65.130:8080/24vesti/mpegts
+#EXTINF:-1, Disney
+http://185.152.65.130:8080/disney/mpegts
+#EXTINF:-1, Vojvodina 1
+http://185.152.65.130:8080/vojvodina1/mpegts
+#EXTINF:-1, KCN 2
+http://185.152.65.130:8080/kcn2/mpegts
+#EXTINF:-1, DM sat
+http://185.152.65.130:8080/dasmatv/mpegts
