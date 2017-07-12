@@ -2,8 +2,12 @@
 
 #EXTINF:-1, RTS1
 http://185.152.65.130:8080/rts1/mpegts
+#EXTINF:-1, RTS2
+http://185.152.65.130:8080/rts2/mpegts
 #EXTINF:-1, RTS SAT
 http://185.152.65.130:8080/rtssat/mpegts
+#EXTINF:-1, Prva
+http://185.152.65.130:8080/prvatv/mpegts
 #EXTINF:-1, Prva Plus
 http://185.152.65.130:8080/prvaplus/mpegts
 #EXTINF:-1, RTRS
@@ -14,6 +18,10 @@ http://185.152.65.130:8080/vojvodina1/mpegts
 http://185.152.65.130:8080/duga/mpegts
 #EXTINF:-1, Palma
 http://185.152.65.130:8080/palma/mpegts
+#EXTINF:-1, HRT1
+http://185.152.65.130:8080/hrt1/mpegts
+#EXTINF:-1, HRT2
+http://185.152.65.130:8080/hrt2/mpegts
 #EXTINF:-1, HRT3
 http://185.152.65.130:8080/hrt3/mpegts
 #EXTINF:-1, HRT4
@@ -30,14 +38,32 @@ http://185.152.65.130:8080/arena3/mpegts
 http://185.152.65.130:8080/arena4/mpegts
 #EXTINF:-1, arena5
 http://185.152.65.130:8080/arena5/mpegts
-#EXTINF:-1, SK2
+#EXTINF:-1, Sport Klub
+http://185.152.65.130:8080/sk1/mpegts
+#EXTINF:-1, Sport Klub 2
 http://185.152.65.130:8080/sk2/mpegts
+#EXTINF:-1, Sport Klub 3
+http://185.152.65.130:8080/sk3/mpegts
+#EXTINF:-1, Sport Klub 4
+http://185.152.65.130:8080/sk4/mpegts
+#EXTINF:-1, Sport Klub 5
+http://185.152.65.130:8080/sk5/mpegts
+#EXTINF:-1, Sport Klub 6
+http://185.152.65.130:8080/sk6/mpegts
 #EXTINF:-1, EuroSport 1
 http://185.152.65.130:8080/eurosport1/mpegts
+#EXTINF:-1, EuroSport 2
+http://185.152.65.130:8080/eurosport2/mpegts
 #EXTINF:-1, SOS
 http://185.152.65.130:8080/sos/mpegts
+#EXTINF:-1, PINK
+http://185.152.65.130:8080/pink/mpegts
+#EXTINF:-1, PINK2
+http://185.152.65.130:8080/pink2/mpegts
 #EXTINF:-1, PINK3
 http://185.152.65.130:8080/pink3/mpegts
+#EXTINF:-1, PINK Film
+http://185.152.65.130:8080/pinkfilm/mpegts
 #EXTINF:-1, Pink Action
 http://185.152.65.130:8080/pinkaction/mpegts
 #EXTINF:-1, Pink Thriller
@@ -62,6 +88,8 @@ http://185.152.65.130:8080/pinkreality/mpegts
 http://185.152.65.130:8080/pinkroll/mpegts
 #EXTINF:-1, ATV
 http://185.152.65.130:8080/atv/mpegts
+#EXTINF:-1, OTV
+http://185.152.65.130:8080/otv/mpegts
 #EXTINF:-1, TV1
 http://185.152.65.130:8080/tv1/mpegts
 #EXTINF:-1, Comedy Central
@@ -70,12 +98,14 @@ http://185.152.65.130:8080/viva/mpegts
 http://185.152.65.130:8080/fox/mpegts
 #EXTINF:-1, FOX Crime
 http://185.152.65.130:8080/foxcrime/mpegts
-#EXTINF:-1, FOX life
+#EXTINF:-1, FOX Life
 http://185.152.65.130:8080/foxlife/mpegts
 #EXTINF:-1, MTV
 http://185.152.65.130:8080/mtv/mpegts
 #EXTINF:-1, CMC
 http://185.152.65.130:8080/cmc/mpegts
+#EXTINF:-1, Hayat
+http://185.152.65.130:8080/hayat/mpegts
 #EXTINF:-1, Hayat PLUS
 http://185.152.65.130:8080/hayatplus/mpegts
 #EXTINF:-1, Hayat Music
@@ -88,5 +118,9 @@ http://185.152.65.130:8080/bnsat/mpegts
 http://185.152.65.130:8080/bnmusic/mpegts
 #EXTINF:-1, DM sat
 http://185.152.65.130:8080/dasmatv/mpegts
+#EXTINF:-1, KCN 1
+http://185.152.65.130:8080/kcn1/mpegts
 #EXTINF:-1, KCN 2
 http://185.152.65.130:8080/kcn2/mpegts
+#EXTINF:-1, KCN 3
+http://185.152.65.130:8080/kcn3/mpegts
