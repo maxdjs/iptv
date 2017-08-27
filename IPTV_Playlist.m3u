@@ -124,3 +124,48 @@ http://185.152.65.130:8080/kcn1/mpegts
 http://185.152.65.130:8080/kcn2/mpegts
 #EXTINF:-1, KCN 3
 http://185.152.65.130:8080/kcn3/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 1 SBR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 1 SBR
+http://clientportalpro.com:2500/live/wrighty/davvy/1548.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 2 SBR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 2 SBR
+http://clientportalpro.com:2500/live/wrighty/davvy/1549.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 3 SBR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 3 SBR
+http://clientportalpro.com:2500/live/wrighty/davvy/1550.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 4 SBR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 4 SBR
+http://clientportalpro.com:2500/live/wrighty/davvy/1551.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ARENA SPORT 5 SRB" tvg-logo="" group-title="EX-YU",Ex-Yu: ARENA SPORT 5 SRB
+http://clientportalpro.com:2500/live/wrighty/davvy/3677.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 1 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 1 HR
+http://clientportalpro.com:2500/live/wrighty/davvy/1543.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 2 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 2 HR
+http://clientportalpro.com:2500/live/wrighty/davvy/1544.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 3 HR" tvg-logo="" group-title="Albania",EX-YU: ARENA SPORT 3 HR
+http://clientportalpro.com:2500/live/wrighty/davvy/1545.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 4 HR" tvg-logo="" group-title="Albania",EX-YU: ARENA SPORT 4 HR
+http://clientportalpro.com:2500/live/wrighty/davvy/1546.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 5 HR" tvg-logo="" group-title="EX-YU",EX-YU: ARENA SPORT 5 HR
+http://clientportalpro.com:2500/live/wrighty/davvy/1547.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 1
+http://clientportalpro.com:2500/live/wrighty/davvy/1967.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2" tvg-logo="" group-title="EX-YU",EX-YU: Sport Klub 2
+http://clientportalpro.com:2500/live/wrighty/davvy/1968.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT KLUB 3" tvg-logo="" group-title="EX-YU",EX-YU: SPORT KLUB 3
+http://clientportalpro.com:2500/live/wrighty/davvy/2100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: SPORT KLUB 5 HD" tvg-logo="" group-title="EX-YU",Ex-Yu: SPORT KLUB 5 HD
+http://clientportalpro.com:2500/live/wrighty/davvy/3679.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: SPORT KLUB 4 HD" tvg-logo="" group-title="EX-YU",Ex-Yu: SPORT KLUB 4 HD
+http://clientportalpro.com:2500/live/wrighty/davvy/3678.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: CineStar TV Action" tvg-logo="" group-title="EX-YU",Ex-Yu: CineStar TV Action
+http://clientportalpro.com:2500/live/wrighty/davvy/1947.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KCN 3" tvg-logo="" group-title="EX-YU",EX-YU: KCN 3
+http://clientportalpro.com:2500/live/wrighty/davvy/4376.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KCN 2" tvg-logo="" group-title="EX-YU",EX-YU: KCN 2
+http://clientportalpro.com:2500/live/wrighty/davvy/4377.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KCN 1" tvg-logo="" group-title="EX-YU",EX-YU: KCN 1
+http://clientportalpro.com:2500/live/wrighty/davvy/4378.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FIGHTBOX" tvg-logo="" group-title="EX-YU",EX-YU: FIGHTBOX
+http://clientportalpro.com:2500/live/wrighty/davvy/4379.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Eurosport 2" tvg-logo="" group-title="EX-YU",EX-YU: Eurosport 2
+http://clientportalpro.com:2500/live/wrighty/davvy/4755.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Eurosport 1" tvg-logo="" group-title="EX-YU",EX-YU: Eurosport 1
+http://clientportalpro.com:2500/live/wrighty/davvy/4754.ts
