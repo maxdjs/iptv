@@ -8,3 +8,6 @@ http://iptv.iptvthebest.net:15000/live/52f1e1ee1394dc9/581b0d51d92214b/21791.ts
 http://iptv.iptvthebest.net:15000/live/52f1e1ee1394dc9/581b0d51d92214b/21789.ts
 #EXTINF:-1,EX-YU: RTS 3
 http://iptv.iptvthebest.net:15000/live/52f1e1ee1394dc9/581b0d51d92214b/21787.ts
+
+#EXTINF:-1 tvg-id="RTS HD ex-Yu" tvg-name="RTS HD RS" tvg-logo="http://picon.space/rtshdexyu.png" group-title="ex-Yu Countries",RTS HD RS
+http://tv.priime.iptv.uno:8080/live/c0rfVJD553/xxm2Nj891/2026.m3u8
