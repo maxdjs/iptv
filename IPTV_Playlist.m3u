@@ -6,24 +6,20 @@ http://iptv.radiokafic.com:80/live?channelId=37&uid=28536&deviceUser=Sasa@Dobric
 http://iptv.radiokafic.com:80/live?channelId=38&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="RTS_3" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="RTS 3" tvg-logo="" group-title="Domaci",RTS 3 - RTS_3
 http://s02.radiokafic.com:80/live?channelId=544&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="PRVA" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="PRVA" tvg-logo="" group-title="Domaci",PRVA - PRVA
 http://iptv.radiokafic.com:80/live?channelId=40&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="PRVA_PLUS" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="PRVA PLUS" tvg-logo="" group-title="Domaci",PRVA PLUS - PRVA_PLUS
 http://nl01.radiokafic.com:80/live?channelId=42&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="PRVA_WORLD" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="PRVA WORLD" tvg-logo="" group-title="Domaci",PRVA WORLD - PRVA_WORLD
 http://nl01.radiokafic.com:80/live?channelId=543&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="PINK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="PINK" tvg-logo="" group-title="Domaci",PINK - PINK
 http://iptv.radiokafic.com:80/live?channelId=64&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="PINK_2" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="PINK 2" tvg-logo="" group-title="Domaci",PINK 2 - PINK_2
 http://nl01.radiokafic.com:80/live?channelId=57&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="PINK_3" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="PINK 3" tvg-logo="" group-title="Domaci",PINK 3 - PINK_3
 http://nl01.radiokafic.com:80/live?channelId=60&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="B92" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="B92" tvg-logo="" group-title="Domaci",B92 - B92
 http://nl01.radiokafic.com:80/live?channelId=58&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="GRAND_TV" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="GRAND TV" tvg-logo="" group-title="Zabava",GRAND TV - GRAND_TV
 http://ovhfr.hitrow.info:80/live?channelId=95&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="GRAND TV 2" tvg-link="" tvg-name="GRAND TV 2" tvg-logo="" group-title="Zabava",GRAND TV 2 - GRAND TV 2
@@ -32,9 +28,6 @@ http://ovhfr.hitrow.info:80/live?channelId=493&uid=28536&deviceUser=Sasa@Dobric&
 http://iptv.radiokafic.com:80/live?channelId=235&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="HAPPY PAROVI UZIVO 24H" tvg-link="" tvg-name="HAPPY PAROVI UZIVO 24H" tvg-logo="" group-title="Domaci",HAPPY PAROVI UZIVO 24H - HAPPY PAROVI UZIVO 24H
 http://iptv.radiokafic.com:80/live?channelId=483&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-#EXTINF:-1 tvg-id="NOVA_RS" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="NOVA RS" tvg-logo="" group-title="Film",NOVA RS - NOVA_RS
-http://nl01.radiokafic.com:80/live?channelId=61&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="ARENA_HD_1_HR" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="ARENA HD 1 HR" tvg-logo="" group-title="Sport",ARENA HD 1 HR - ARENA_HD_1_HR
 http://iptv.radiokafic.com:80/live?channelId=20&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="ARENA_HD_2_HR" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="ARENA HD 2 HR" tvg-logo="" group-title="Sport",ARENA HD 2 HR - ARENA_HD_2_HR
@@ -57,7 +50,6 @@ http://iptv.radiokafic.com:80/live?channelId=102&uid=28536&deviceUser=Sasa@Dobri
 http://iptv.radiokafic.com:80/live?channelId=35&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="ARENA_5_SR" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="ARENA 5 SRB" tvg-logo="" group-title="Sport",ARENA 5 SRB - ARENA_5_SR
 http://nl01.radiokafic.com:80/live?channelId=121&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="SPORT MIX 1" tvg-link="" tvg-name="SPORT MIX 1" tvg-logo="" group-title="Sport",SPORT MIX 1 - SPORT MIX 1
 http://iptv.radiokafic.com:80/live?channelId=24&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SPORT MIX 2" tvg-link="" tvg-name="SPORT MIX 2" tvg-logo="" group-title="Sport",SPORT MIX 2 - SPORT MIX 2
@@ -70,35 +62,28 @@ http://ovhfr.hitrow.info:80/live?channelId=353&uid=28536&deviceUser=Sasa@Dobric&
 http://ovhfr.hitrow.info:80/live?channelId=354&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SPORT MIX 6" tvg-link="" tvg-name="SPORT MIX 6" tvg-logo="" group-title="Sport",SPORT MIX 6 - SPORT MIX 6
 http://ovhfr.hitrow.info:80/live?channelId=355&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="EUROSPORT" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="EUROSPORT" tvg-logo="" group-title="Sport",EUROSPORT - EUROSPORT
 http://iptv.radiokafic.com:80/live?channelId=128&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="EUROSPORT_2" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Sport",EUROSPORT 2 - EUROSPORT_2
 http://iptv.radiokafic.com:80/live?channelId=129&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="HNTV" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="HNTV" tvg-logo="" group-title="Sport",HNTV - HNTV
 http://nl01.radiokafic.com:80/live?channelId=481&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
+#EXTINF:-1 tvg-id="NOVA_RS" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="NOVA RS" tvg-logo="" group-title="Film",NOVA RS - NOVA_RS
+http://nl01.radiokafic.com:80/live?channelId=61&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="DM_SAT" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="DM SAT" tvg-logo="" group-title="Zabava",DM SAT - DM_SAT
 http://nl01.radiokafic.com:80/live?channelId=43&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="DUGA_TV" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="DUGA TV" tvg-logo="" group-title="Domaci",DUGA TV - DUGA_TV
 http://s02.radiokafic.com:80/live?channelId=226&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="KCN" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="KCN" tvg-logo="" group-title="Domaci",KCN - KCN
 http://s02.radiokafic.com:80/live?channelId=338&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="NOVI_PAZAR" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="NOVI PAZAR" tvg-logo="" group-title="Domaci",NOVI PAZAR - NOVI_PAZAR
 http://s02.radiokafic.com:80/live?channelId=132&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SANDZAK TV" tvg-link="" tvg-name="SANDZAK TV" tvg-logo="" group-title="Domaci",SANDZAK TV - SANDZAK TV
 http://s02.radiokafic.com:80/live?channelId=455&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
-
 #EXTINF:-1 tvg-id="RTRS" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="RTRS" tvg-logo="" group-title="Domaci",RTRS - RTRS
 http://iptv.radiokafic.com:80/live?channelId=53&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
-
 #EXTINF:-1 tvg-id="SOS" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="SOS" tvg-logo="" group-title="Domaci",SOS - SOS
 http://s02.radiokafic.com:80/live?channelId=153&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="HTV_1" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="HTV 1" tvg-logo="" group-title="Domaci",HTV 1 - HTV_1
 http://iptv.radiokafic.com:80/live?channelId=2&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="HTV_2" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="HTV 2" tvg-logo="" group-title="Domaci",HTV 2 - HTV_2
@@ -149,7 +134,6 @@ http://s02.radiokafic.com:80/live?channelId=539&uid=28536&deviceUser=Sasa@Dobric
 http://s02.radiokafic.com:80/live?channelId=540&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="ALFA TV" tvg-link="" tvg-name="ALFA TV" tvg-logo="" group-title="Domaci",ALFA TV - ALFA TV
 http://s02.radiokafic.com:80/live?channelId=310&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="AL_JAZEERA" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="AL JAZEERA" tvg-logo="" group-title="Domaci",AL JAZEERA - AL_JAZEERA
 http://nl01.radiokafic.com:80/live?channelId=117&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="ATV" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="ATV" tvg-logo="" group-title="Domaci",ATV - ATV
@@ -204,7 +188,6 @@ http://s02.radiokafic.com:80/live?channelId=323&uid=28536&deviceUser=Sasa@Dobric
 http://s02.radiokafic.com:80/live?channelId=308&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="BALKANIKA" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="BALKANIKA" tvg-logo="" group-title="Zabava",BALKANIKA - BALKANIKA
 http://nl01.radiokafic.com:80/live?channelId=307&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="KANAL_5_MK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="KANAL 5 MK" tvg-logo="" group-title="Makedonski",KANAL 5 MK - KANAL_5_MK
 http://s02.radiokafic.com:80/live?channelId=239&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="MRT1" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="MRT 1 MK" tvg-logo="" group-title="Makedonski",MRT 1 MK - MRT_1
@@ -219,16 +202,12 @@ http://s02.radiokafic.com:80/live?channelId=434&uid=28536&deviceUser=Sasa@Dobric
 http://s02.radiokafic.com:80/live?channelId=571&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="TV_NOVA_MK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="TV NOVA MK" tvg-logo="" group-title="Makedonski",TV NOVA MK - TV_NOVA_MK
 http://s02.radiokafic.com:80/live?channelId=568&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="RTCG" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="RTCG" tvg-logo="" group-title="Domaci",RTCG - RTCG
 http://s02.radiokafic.com:80/live?channelId=315&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="SLO1" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="SLO 1" tvg-logo="" group-title="Domaci",SLO 1 - SLO_1
 http://fr03.radiokafic.com:80/live?channelId=536&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SLO2" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="SLO 2" tvg-logo="" group-title="Domaci",SLO 2 - SLO_2
 http://fr03.radiokafic.com:80/live?channelId=537&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
-
 #EXTINF:-1 tvg-id="PINK BIH" tvg-link="" tvg-name="PINK BIH" tvg-logo="" group-title="Domaci",PINK BIH - PINK BIH
 http://nl01.radiokafic.com:80/live?channelId=36&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="PINK_M" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="PINK M" tvg-logo="" group-title="Domaci",PINK M - PINK_M
@@ -281,7 +260,6 @@ http://nl01.radiokafic.com:80/live?channelId=119&uid=28536&deviceUser=Sasa@Dobri
 http://nl01.radiokafic.com:80/live?channelId=154&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="PINK_ZABAVA" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="PINK ZABAVA" tvg-logo="" group-title="Zabava",PINK ZABAVA - PINK_ZABAVA
 http://nl01.radiokafic.com:80/live?channelId=155&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="24_KITCHEN" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="24 KITCHEN" tvg-logo="" group-title="Dokumentarni",24 KITCHEN - 24_KITCHEN
 http://nl01.radiokafic.com:80/live?channelId=9&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="ANIMAL_PLANET" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="Dokumentarni",ANIMAL PLANET - ANIMAL_PLANET
@@ -310,7 +288,6 @@ http://nl01.radiokafic.com:80/live?channelId=373&uid=28536&deviceUser=Sasa@Dobri
 http://s02.radiokafic.com:80/live?channelId=468&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="VIASAT_HISTORY" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="VIASAT HISTORY" tvg-logo="" group-title="Dokumentarni",VIASAT HISTORY - VIASAT_HISTORY
 http://s02.radiokafic.com:80/live?channelId=587&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="HBO" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="HBO" tvg-logo="" group-title="Film",HBO - HBO
 http://nl01.radiokafic.com:80/live?channelId=44&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="HBO_2" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="HBO 2" tvg-logo="" group-title="Film",HBO 2 - HBO_2
@@ -349,7 +326,6 @@ http://nl01.radiokafic.com:80/live?channelId=19&uid=28536&deviceUser=Sasa@Dobric
 http://nl01.radiokafic.com:80/live?channelId=18&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="FOX_MOVIES" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="FOX MOVIES" tvg-logo="" group-title="Film",FOX MOVIES - FOX_MOVIES
 http://nl01.radiokafic.com:80/live?channelId=111&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="IDJ TV" tvg-link="" tvg-name="IDJ TV" tvg-logo="" group-title="Zabava",IDJ TV - IDJ TV
 http://nl01.radiokafic.com:80/live?channelId=485&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="MTV" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="MTV" tvg-logo="" group-title="Zabava",MTV - MTV
@@ -360,7 +336,6 @@ http://fr03.radiokafic.com:80/live?channelId=595&uid=28536&deviceUser=Sasa@Dobri
 http://s02.radiokafic.com:80/live?channelId=542&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="VH_1" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="VH1" tvg-logo="" group-title="Zabava",VH1 - VH_1
 http://fr03.radiokafic.com:80/live?channelId=594&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="KIDS" tvg-link="" tvg-name="KIDS" tvg-logo="" group-title="Kids",KIDS - KIDS
 http://ovhfr.hitrow.info:80/live?channelId=125&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="KIDS MIX 1" tvg-link="" tvg-name="KIDS MIX 1" tvg-logo="" group-title="Kids",KIDS MIX 1 - KIDS MIX 1
@@ -375,7 +350,6 @@ http://nl01.radiokafic.com:80/live?channelId=109&uid=28536&deviceUser=Sasa@Dobri
 http://nl01.radiokafic.com:80/live?channelId=94&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="NICK_JR" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="NICK JR" tvg-logo="" group-title="Kids",NICK JR - NICK_JR
 http://nl01.radiokafic.com:80/live?channelId=358&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="CANAL+ FUTBOL ES" tvg-link="" tvg-name="CANAL+ FUTBOL ES" tvg-logo="" group-title="Sport",CANAL+ FUTBOL ES - CANAL+ FUTBOL ES
 http://nl01.radiokafic.com:80/live?channelId=504&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="BEIN LA LIGA ES" tvg-link="" tvg-name="BEIN LA LIGA ES" tvg-logo="" group-title="Sport",BEIN LA LIGA ES - BEIN LA LIGA ES
@@ -388,7 +362,6 @@ http://nl01.radiokafic.com:80/live?channelId=28&uid=28536&deviceUser=Sasa@Dobric
 http://nl01.radiokafic.com:80/live?channelId=29&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="BEIN SPORT 4 HD" tvg-link="" tvg-name="BEIN SPORT 4 HD" tvg-logo="" group-title="Sport",BEIN SPORT 4 HD - BEIN SPORT 4 HD
 http://nl01.radiokafic.com:80/live?channelId=67&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="CANAL+ SPORT FR" tvg-link="" tvg-name="CANAL+ SPORT FR" tvg-logo="" group-title="Sport",CANAL+ SPORT FR - CANAL+ SPORT FR
 http://nl01.radiokafic.com:80/live?channelId=487&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SKY SPORT AUSTRIA" tvg-link="" tvg-name="SKY SPORT AUSTRIA" tvg-logo="" group-title="Sport",SKY SPORT AUSTRIA - SKY SPORT AUSTRIA
@@ -407,7 +380,6 @@ http://iptv.radiokafic.com:80/live?channelId=583&uid=28536&deviceUser=Sasa@Dobri
 http://iptv.radiokafic.com:80/live?channelId=92&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SKY_SPORT_2_DE" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="SKY SPORT 2  HD DE" tvg-logo="" group-title="Sport",SKY SPORT 2  HD DE - SKY_SPORT_2_DE
 http://iptv.radiokafic.com:80/live?channelId=93&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="SKY_SPORT_1_IT" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="SKY SPORT 1 HD IT" tvg-logo="" group-title="Sport",SKY SPORT 1 HD IT - SKY_SPORT_1_IT
 http://fr03.radiokafic.com:80/live?channelId=258&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SKY_SPORT_2_IT" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="SKY SPORT 2 HD IT" tvg-logo="" group-title="Sport",SKY SPORT 2 HD IT - SKY_SPORT_2_IT
@@ -458,7 +430,6 @@ http://fr03.radiokafic.com:80/live?channelId=479&uid=28536&deviceUser=Sasa@Dobri
 http://fr03.radiokafic.com:80/live?channelId=380&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="VIASAT SPORT PREMIUM SE" tvg-link="" tvg-name="VIASAT SPORT PREMIUM SE" tvg-logo="" group-title="Sport",VIASAT SPORT PREMIUM SE - VIASAT SPORT PREMIUM SE
 http://fr03.radiokafic.com:80/live?channelId=477&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="RAI_Uno" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="RAI 1" tvg-logo="" group-title="Talijanski",RAI 1 - RAI_Uno
 http://fr03.radiokafic.com:80/live?channelId=456&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="RAI_Due" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="RAI 2" tvg-logo="" group-title="Talijanski",RAI 2 - RAI_Due
@@ -503,7 +474,6 @@ http://fr03.radiokafic.com:80/live?channelId=553&uid=28536&deviceUser=Sasa@Dobri
 http://fr03.radiokafic.com:80/live?channelId=565&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SKY_CINEMA_MAX_IT" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="SKY CINEMA MAX IT" tvg-logo="" group-title="Talijanski",SKY CINEMA MAX IT - SKY_CINEMA_MAX_IT
 http://fr03.radiokafic.com:80/live?channelId=552&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="SVT 1 SE" tvg-link="" tvg-name="SVT 1 SE" tvg-logo="" group-title="Svedski",SVT 1 SE - SVT 1 SE
 http://fr03.radiokafic.com:80/live?channelId=509&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SVT 2 SE" tvg-link="" tvg-name="SVT 2 SE" tvg-logo="" group-title="Svedski",SVT 2 SE - SVT 2 SE
@@ -526,7 +496,6 @@ http://fr03.radiokafic.com:80/live?channelId=387&uid=28536&deviceUser=Sasa@Dobri
 http://fr03.radiokafic.com:80/live?channelId=388&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="VIASAT FILM PREMIERE SE" tvg-link="" tvg-name="VIASAT FILM PREMIERE SE" tvg-logo="" group-title="Svedski",VIASAT FILM PREMIERE SE - VIASAT FILM PREMIERE SE
 http://fr03.radiokafic.com:80/live?channelId=255&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="EUROSPORT NORGE" tvg-link="" tvg-name="EUROSPORT NORGE" tvg-logo="" group-title="Norveski",EUROSPORT NORGE - EUROSPORT NORGE
 http://fr03.radiokafic.com:80/live?channelId=601&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="NRK1" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="NRK 1 NO" tvg-logo="" group-title="Norveski",NRK 1 NO - NRK1
@@ -539,7 +508,6 @@ http://fr03.radiokafic.com:80/live?channelId=598&uid=28536&deviceUser=Sasa@Dobri
 http://fr03.radiokafic.com:80/live?channelId=599&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="VIASAT 4 NO" tvg-link="" tvg-name="VIASAT 4 NO" tvg-logo="" group-title="Norveski",VIASAT 4 NO - VIASAT 4 NO
 http://fr03.radiokafic.com:80/live?channelId=600&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="DISCOVERY_UK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="DISCOVERY UK" tvg-logo="" group-title="Dokumentarni",DISCOVERY UK - DISCOVERY_UK
 http://fr03.radiokafic.com:80/live?channelId=574&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="HISTORY_UK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="HISTORY UK" tvg-logo="" group-title="Dokumentarni",HISTORY UK - HISTORY_UK
@@ -558,7 +526,6 @@ http://fr03.radiokafic.com:80/live?channelId=114&uid=28536&deviceUser=Sasa@Dobri
 http://fr03.radiokafic.com:80/live?channelId=113&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="SKY_ACTION_UK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="SKY ACTION UK" tvg-logo="" group-title="Film",SKY ACTION UK - SKY_ACTION_UK
 http://fr03.radiokafic.com:80/live?channelId=112&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
-
 #EXTINF:-1 tvg-id="DISCOVERY_DE" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="DISCOVERY DE" tvg-logo="" group-title="Njemacki",DISCOVERY DE - DISCOVERY_DE
 http://fr04.radiokafic.com:80/live?channelId=270&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="HISTORY_DE" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="HISTORY DE" tvg-logo="" group-title="Njemacki",HISTORY DE - HISTORY_DE
