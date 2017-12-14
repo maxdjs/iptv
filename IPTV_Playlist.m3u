@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="RTS_1" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="RTS 1" tvg-logo="" group-title="Domaci",RTS 1 - RTS_1
 http://iptv.radiokafic.com:80/live?channelId=37&uid=28536&deviceUser=Sasa@Dobric&devicePass=w1uReHxrx1
 #EXTINF:-1 tvg-id="RTS_2" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="RTS 2" tvg-logo="" group-title="Domaci",RTS 2 - RTS_2
